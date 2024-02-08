@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "6877a718-07f3-4ca2-a71d-37dfe3793b17",
+    "author": "Chase McKee",
+    "description": "Forked version of "Nexii CAM" by jmccutchan",
+    "version": "1.1.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
